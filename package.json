@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string-length.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amon-cofie/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amon-cofie/testing-practice/issues"
+  },
+  "homepage": "https://github.com/amon-cofie/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
